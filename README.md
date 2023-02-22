@@ -1,4 +1,5 @@
 ### Hi there 👋
+### this is a school account pretty cool right, everything here will be under the gpl 3.0 license
 
 <!--
 **arich-student/arich-student** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
